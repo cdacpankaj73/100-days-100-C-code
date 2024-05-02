@@ -10,3 +10,5 @@ Daily coding challenges in C++. Solutions provided for each challenge. Open for 
 Fork this repository. Clone it to your local machine. Start coding! Solve the daily challenges and push your solutions. Optionally, create a pull request to share your solution with the community. Let's Code, Learn, and Grow Together!
 
 day 1:Check if a Number is Positive or Negative in C++
+
+day 2:Check if a Number is Even or Odd in C++
