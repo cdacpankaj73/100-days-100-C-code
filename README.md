@@ -12,3 +12,7 @@ Fork this repository. Clone it to your local machine. Start coding! Solve the da
 day 1:Check if a Number is Positive or Negative in C++
 
 day 2:Check if a Number is Even or Odd in C++
+
+Day 3: Find the Sum of N Natural Numbers in C++
+
+Day 4: Find the Sum of Numbers in a Given Interval in C++
