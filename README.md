@@ -18,3 +18,5 @@ Day 3: Find the Sum of N Natural Numbers in C++
 Day 4: Find the Sum of Numbers in a Given Interval in C++
 
 Day 5: Find the Greatest of the Two Numbers in C++
+
+Day 6: C++ Program to find the Greatest of three numbers
