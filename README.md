@@ -22,3 +22,7 @@ Day 5: Find the Greatest of the Two Numbers in C++
 Day 6: C++ Program to find the Greatest of three numbers
 
 Day 7: Program to Check Whether a Year is a Leap Year or Not in C++
+
+Day 8: C++ Program to Check Whether the Number is Prime or Not
+
+Day 9: Program to find Prime Numbers in a given range in C++
