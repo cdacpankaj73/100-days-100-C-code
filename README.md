@@ -26,3 +26,7 @@ Day 7: Program to Check Whether a Year is a Leap Year or Not in C++
 Day 8: C++ Program to Check Whether the Number is Prime or Not
 
 Day 9: Program to find Prime Numbers in a given range in C++
+
+Day 10: Program to Find the Sum of Digits of a Number in C++
+
+Day 11: C++ Program to find the Reverse of a Number
