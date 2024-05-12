@@ -33,9 +33,9 @@ int main()
 }
 /*
 Output:
-    Enter the number to reversed it:45254
+    Enter the number to find it palindrome or not:45254
     the number 45254 is palindrome number.
 
-    Enter the number to reversed it:7562
+    Enter the number to find it palindrome or not:7562
     the number 7562 is not palindrome number.
 */
