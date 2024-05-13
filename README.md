@@ -30,3 +30,7 @@ Day 9: Program to find Prime Numbers in a given range in C++
 Day 10: Program to Find the Sum of Digits of a Number in C++
 
 Day 11: C++ Program to find the Reverse of a Number
+
+Day 12: check number is Palindrome or not in C++
+
+Day 13: check number is Armstrong or not in C++
