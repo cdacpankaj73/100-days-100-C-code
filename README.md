@@ -34,3 +34,5 @@ Day 11: C++ Program to find the Reverse of a Number
 Day 12: check number is Palindrome or not in C++
 
 Day 13: check number is Armstrong or not in C++
+
+Day 14:C++ Program for printing rectangle star pattern.
